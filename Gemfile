@@ -32,6 +32,7 @@ gem "rack",                  "1.1.0"
 # These are dependencies for the various notifiers. Uncomment as appropriate.
 # = Email
 # gem "pony", "1.1"
+# gem 'activesupport' 
 
 # = Campfire
 # gem "broach", "0.2.1"
